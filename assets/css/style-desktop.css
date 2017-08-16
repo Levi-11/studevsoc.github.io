@@ -15,7 +15,10 @@
 	body,input,textarea,select
 	{
 	}
+	p{
+		width: 80%;
 
+	}
 	header
 	{
 		margin-bottom: 1.6em;

@@ -104,6 +104,20 @@
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
+	
+   	 pre {
+    		background:#036 url(/img/gutter.gif) 2.3em 0 repeat-y;
+   	 	overflow:auto;
+   	 	font-family:"Courier New",Courier,mono;
+   	 	margin:0;
+   	 	padding:1em 0 1em 2.8em;
+   	 	color:#fff;
+   	 	width:90%;
+ 	   }
+ 	 
+  	  }
+   	 code {color:#036;}
+
 	p{
 		margin-bottom: 1 em;
 		
@@ -952,7 +966,6 @@
 	{
 		position: relative;
 		text-align: center;
-		color: #774535;
 	}
 
 	#copyright .container

@@ -197,6 +197,12 @@
 				display: block;
 				width: 100%;
 			}
+			.bioimage{
+				margin: 10px 20px;
+				float:left;
+				width: 198px;
+				height: 198px;
+			}
 
 			.image.featured
 			{
@@ -790,7 +796,11 @@
 	{
 		color: #fff;
 	}
+	.item {
+		padding-top: 2%;
+		clear:left;
 
+	}
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
@@ -921,6 +931,7 @@
 	{
 		position: relative;
 		background: #fff;
+		overflow: auto;
 	}
 
 	.homepage #content

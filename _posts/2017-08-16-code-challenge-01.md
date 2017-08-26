@@ -1,5 +1,5 @@
 ---
-title: SDS Coding Challenge Week 1
+title: Coding Challenge Week 1
 layout: post
 ---
 Coding challenges are a great way to test our skills and to learn where gaps in our knowledge lie. We are starting a series of weekly coding challenges, that vary in diffculty. You can do it any language of your choice. Solutions can always be found online, but that doesn't help in advancing your skills, so try and do them yourself. Once you are done, push it to github and post in the group. Have fun!
